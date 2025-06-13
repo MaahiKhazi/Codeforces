@@ -32,3 +32,8 @@ for _ in range(int(input())):
 for _ in range(int(input())):
     n, m = map(int, input().split())
 
+# two int list Input
+
+for _ in range(int(input())):
+    n, m = map(int, input().split())
+    l = list(map(int, input().split()))
